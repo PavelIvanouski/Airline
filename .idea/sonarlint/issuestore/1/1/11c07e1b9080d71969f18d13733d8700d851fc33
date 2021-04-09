@@ -1,0 +1,6 @@
+
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(¥í„ƒ8çÔİ‹/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÙŒŞúÿÿÿÿ8Û”Ù‹/
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(ŸÒ‰e8ÆÄÛ‹/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Â¾¼‹ıÿÿÿÿ8‹ú‹/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(‚€„¡şÿÿÿÿ8ƒ÷û‹/

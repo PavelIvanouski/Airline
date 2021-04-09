@@ -1,0 +1,9 @@
+
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÄÚ®8Î¿ËŠ‹/
+E
+java:S1185"(Remove this method to simply inherit it.(®¼»š8·Ùô‹‹/
+]	java:S125"<This block of commented-out lines of code should be removed.(ûÚˆùÿÿÿÿ8µºö‹‹/
+D
+java:S1185"(Remove this method to simply inherit it.(ðÞ28€ãé‹‹/
+]	java:S125"<This block of commented-out lines of code should be removed.(¯¥†Ôþÿÿÿÿ8Ž˜ì‹‹/
