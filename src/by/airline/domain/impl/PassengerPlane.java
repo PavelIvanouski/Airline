@@ -1,8 +1,8 @@
 package by.airline.domain.impl;
 
 import by.airline.domain.AirPlane;
-import by.airline.features.Brand;
-import by.airline.features.SeatsClass;
+import by.airline.enums.Brand;
+import by.airline.enums.SeatsClass;
 
 public class PassengerPlane extends AirPlane implements Comparable<AirPlane>{
     private SeatsClass seatsClass;

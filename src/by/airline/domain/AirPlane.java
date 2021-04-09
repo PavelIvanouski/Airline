@@ -1,6 +1,7 @@
 package by.airline.domain;
 
-import by.airline.features.Brand;
+import by.airline.enums.Brand;
+import by.airline.util.PlaneUtil;
 
 import java.util.Objects;
 
@@ -22,20 +23,20 @@ public abstract class AirPlane implements Flyable, Comparable<AirPlane> {
 
     @Override
     public void toTakeOff() {
-        //startTheEngine();
-        //takeOff();
-        //chassisUp();
+        PlaneUtil.startTheEngine();
+        PlaneUtil.takeOff();
+        PlaneUtil.chassisUp();
     }
 
     @Override
     public void toFly() {
-        //useTheNavigator();
+        PlaneUtil.useTheNavigator();
     }
 
     @Override
     public void toLand() {
-        //chassisDown();
-        //turnOffTheEngine();
+        PlaneUtil.chassisDown();
+        PlaneUtil.TurnOffTheEngine();
     }
 
     //region getters/setters

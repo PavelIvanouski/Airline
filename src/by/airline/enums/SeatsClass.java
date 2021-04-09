@@ -1,4 +1,4 @@
-package by.airline.features;
+package by.airline.enums;
 
 public enum SeatsClass {
     ECONOMY("Economy"),

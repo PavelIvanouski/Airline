@@ -4,8 +4,8 @@ import by.airline.domain.AirPlane;
 import by.airline.domain.impl.CargoPlane;
 import by.airline.domain.impl.MilitaryPlane;
 import by.airline.domain.impl.PassengerPlane;
-import by.airline.features.Brand;
-import by.airline.features.SeatsClass;
+import by.airline.enums.Brand;
+import by.airline.enums.SeatsClass;
 
 import java.util.ArrayList;
 import java.util.List;

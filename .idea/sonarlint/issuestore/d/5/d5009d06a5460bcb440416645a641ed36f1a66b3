@@ -1,14 +1,14 @@
 
-]	java:S125"<This block of commented-out lines of code should be removed.(Š£ß¥úÿÿÿÿ8®ºˆŠ‹/
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú½ôøÿÿÿÿ8Å¯¶‡‹/
-j	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üí¾Å8¥·‡‹/
-[
-java:S5993"9Change the visibility of this constructor to "protected".(Ú½ôøÿÿÿÿ8Å¯¶‡‹/
-]	java:S125%"<This block of commented-out lines of code should be removed.(ú£©ÿÿÿÿÿ8é»ŸŠ‹/
-m	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üí¾Å8¥·‡‹/
-X	java:S125 "<This block of commented-out lines of code should be removed.(½ëÎ8ª¨Š‹/
-€
-java:S1488g"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÜøùÜúÿÿÿÿ8×ŞÕª‹/
 x	java:S116
 "\Rename this field "carryingĞ¡apacity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÍ’ÿ8Ö˜•‡‹/
+€
+java:S1488g"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÜøùÜúÿÿÿÿ8×ŞÕª‹/
+[
+java:S5993"9Change the visibility of this constructor to "protected".(Ú½ôøÿÿÿÿ8Å¯¶‡‹/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú½ôøÿÿÿÿ8Å¯¶‡‹/
+m	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üí¾Å8¥·‡‹/
+]	java:S125"<This block of commented-out lines of code should be removed.(Š£ß¥úÿÿÿÿ8®ºˆŠ‹/
 o	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û‰Ùúÿÿÿÿ8¥·‡‹/
+X	java:S125 "<This block of commented-out lines of code should be removed.(½ëÎ8ª¨Š‹/
+j	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üí¾Å8¥·‡‹/
+]	java:S125%"<This block of commented-out lines of code should be removed.(ú£©ÿÿÿÿÿ8é»ŸŠ‹/

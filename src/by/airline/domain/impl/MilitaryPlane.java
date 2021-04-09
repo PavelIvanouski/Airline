@@ -1,7 +1,7 @@
 package by.airline.domain.impl;
 
 import by.airline.domain.AirPlane;
-import by.airline.features.Brand;
+import by.airline.enums.Brand;
 
 public class MilitaryPlane extends AirPlane implements Comparable<AirPlane>{
     private int rocketCount;
